@@ -1,0 +1,40 @@
+K:\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+K:\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+K:\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+K:\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojAssemblyReference.cache
+K:\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Form1.resources
+K:\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+K:\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+K:\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+K:\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+K:\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
+H:\MEGA chmura\Gry C#\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojAssemblyReference.cache
+H:\MEGA chmura\Gry C#\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Form1.resources
+H:\MEGA chmura\Gry C#\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+H:\MEGA chmura\Gry C#\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+H:\MEGA chmura\Gry C#\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+H:\MEGA chmura\Gry C#\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+H:\MEGA chmura\Gry C#\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
+H:\MEGA chmura\Gry C#\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+H:\MEGA chmura\Gry C#\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+H:\MEGA chmura\Gry C#\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+H:\MEGA chmura\Ciekawe projekty C#\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+H:\MEGA chmura\Ciekawe projekty C#\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+H:\MEGA chmura\Ciekawe projekty C#\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+H:\MEGA chmura\Ciekawe projekty C#\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojAssemblyReference.cache
+H:\MEGA chmura\Ciekawe projekty C#\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Form1.resources
+H:\MEGA chmura\Ciekawe projekty C#\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+H:\MEGA chmura\Ciekawe projekty C#\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+H:\MEGA chmura\Ciekawe projekty C#\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+H:\MEGA chmura\Ciekawe projekty C#\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+H:\MEGA chmura\Ciekawe projekty C#\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
+H:\MEGA chmura\Ciekawe projekty C#\Kółko i krzyżyk\TicTacToe\bin\Debug\TicTacToe.exe.config
+H:\MEGA chmura\Ciekawe projekty C#\Kółko i krzyżyk\TicTacToe\bin\Debug\TicTacToe.exe
+H:\MEGA chmura\Ciekawe projekty C#\Kółko i krzyżyk\TicTacToe\bin\Debug\TicTacToe.pdb
+H:\MEGA chmura\Ciekawe projekty C#\Kółko i krzyżyk\TicTacToe\obj\Debug\TicTacToe.csprojAssemblyReference.cache
+H:\MEGA chmura\Ciekawe projekty C#\Kółko i krzyżyk\TicTacToe\obj\Debug\TicTacToe.Form1.resources
+H:\MEGA chmura\Ciekawe projekty C#\Kółko i krzyżyk\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+H:\MEGA chmura\Ciekawe projekty C#\Kółko i krzyżyk\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+H:\MEGA chmura\Ciekawe projekty C#\Kółko i krzyżyk\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+H:\MEGA chmura\Ciekawe projekty C#\Kółko i krzyżyk\TicTacToe\obj\Debug\TicTacToe.exe
+H:\MEGA chmura\Ciekawe projekty C#\Kółko i krzyżyk\TicTacToe\obj\Debug\TicTacToe.pdb
